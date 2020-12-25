@@ -11,6 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Native - Developer Workflow](https://medium.com/swlh/cloud-native-developer-workflow-3f302dcdd855?source=rss-3c5c31a7d1d7------2)
+- [5 static websites deployment options](https://itnext.io/5-static-websites-deployment-options-d0aac1570331?source=rss-3c5c31a7d1d7------2)
+- [Expose local Kubernetes service on internet using ngrok](https://itnext.io/expose-local-kubernetes-service-on-internet-using-ngrok-2888a1118b5b?source=rss-3c5c31a7d1d7------2)
+- [A gentle introduction to Docker and containers](https://medium.com/faun/a-gentle-introduction-to-docker-and-containers-2e67b1832918?source=rss-3c5c31a7d1d7------2)
+- [Portable Kubernetes management with kubectl in docker](https://itnext.io/portable-kubernetes-management-with-kubectl-in-docker-cb861a2c3c02?source=rss-3c5c31a7d1d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
