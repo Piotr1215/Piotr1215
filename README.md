@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [A comprehensive guide to Docker Certified Associate exam](https://medium.com/swlh/a-comprehensive-guide-to-docker-certified-associate-exam-d7f25b6374ca?source=rss-3c5c31a7d1d7------2)
+- [A Comprehensive Guide to Docker Certified Associate](https://medium.com/faun/a-comprehensive-guide-to-docker-certified-associate-exam-d7f25b6374ca?source=rss-3c5c31a7d1d7------2)
 - [Cloud Native - Developer Workflow](https://medium.com/swlh/cloud-native-developer-workflow-3f302dcdd855?source=rss-3c5c31a7d1d7------2)
 - [5 static websites deployment options](https://itnext.io/5-static-websites-deployment-options-d0aac1570331?source=rss-3c5c31a7d1d7------2)
 - [Expose local Kubernetes service on internet using ngrok](https://itnext.io/expose-local-kubernetes-service-on-internet-using-ngrok-2888a1118b5b?source=rss-3c5c31a7d1d7------2)
