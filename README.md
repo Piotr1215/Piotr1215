@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://piotrzan.medium.com/](https://piotrzan.medium.com/)
 
-- 💬 Ask me about **docker, Kubernetes, Azure, microservices**
+- 💬 Ask me about **Docker, Kubernetes, Azure, Microservices**
 
 - 📫 How to reach me **piotrzan@gmail.com**
 
@@ -18,7 +18,7 @@
 - [Easily Deploy Containers to Azure Directly from your Desktop](https://itnext.io/easily-deploy-containers-to-azure-directly-from-your-desktop-16efebc87b21?source=rss-3c5c31a7d1d7------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Where to find me:</h3>
 <p align="left">
 <a href="https://twitter.com/piotr1215" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="piotr1215" height="30" width="40" /></a>
 <a href="https://medium.com/@piotrzan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@piotrzan" height="30" width="40" /></a>
