@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to create and maintain good software documentation](https://medium.com/swlh/how-to-create-and-maintain-good-software-documentation-bc8b4dcd32bf?source=rss-3c5c31a7d1d7------2)
+- [How to create and maintain good software documentation](https://itnext.io/how-to-create-and-maintain-good-software-documentation-bc8b4dcd32bf?source=rss-3c5c31a7d1d7------2)
 - [Kubernetes explained deep enough: Services](https://itnext.io/kubernetes-explained-deep-enough-services-1a0647499616?source=rss-3c5c31a7d1d7------2)
 - [Kubernetes explained deep enough: Configuration](https://itnext.io/kubernetes-explained-deep-enough-configuration-cd4a9d1d8dcd?source=rss-3c5c31a7d1d7------2)
 - [Kubernetes explained deep enough: Deployments](https://itnext.io/kubernetes-explained-deep-enough-deployments-371755fbe2a3?source=rss-3c5c31a7d1d7------2)
