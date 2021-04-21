@@ -15,7 +15,6 @@
 - [Cloud vendor lock-in: the good, the bad and reality](https://itnext.io/cloud-vendor-lock-in-the-good-the-bad-and-reality-e0613c035979?source=rss-3c5c31a7d1d7------2)
 - [How to harness the power of cloud computing](https://itnext.io/how-to-harness-the-power-of-cloud-computing-d0bd73a34f7b?source=rss-3c5c31a7d1d7------2)
 - [How to create and maintain good software documentation](https://itnext.io/how-to-create-and-maintain-good-software-documentation-bc8b4dcd32bf?source=rss-3c5c31a7d1d7------2)
-- [Kubernetes explained deep enough: Services](https://itnext.io/kubernetes-explained-deep-enough-services-1a0647499616?source=rss-3c5c31a7d1d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Where to find me:</h3>
