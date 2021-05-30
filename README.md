@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Advice to my junior developer self](https://itnext.io/advice-to-my-junior-developer-self-bd210a967d7e?source=rss-3c5c31a7d1d7------2)
+- [Advice to my junior developer self](https://faun.pub/advice-to-my-junior-developer-self-bd210a967d7e?source=rss-3c5c31a7d1d7------2)
 - [How to learn and stay up to date with DevOps and Cloud Native technologies](https://itnext.io/how-to-learn-and-stay-up-to-date-with-devops-and-cloud-native-technologies-44526658a4fb?source=rss-3c5c31a7d1d7------2)
 - [5 common pitfalls in  Infrastructure as Code](https://itnext.io/5-common-pitfalls-in-infrastructure-as-code-3637ab6b02e0?source=rss-3c5c31a7d1d7------2)
 - [Cloud vendor lock-in: the good, the bad and reality](https://itnext.io/cloud-vendor-lock-in-the-good-the-bad-and-reality-e0613c035979?source=rss-3c5c31a7d1d7------2)
