@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Piotr</h1>
-<h3 align="center">Passionate about cloud native technologies, containers, Kubernetes and multi-cloud.</h3>
+<h1 align="center">Hi 👋, welcome to my github profile</h1>
+<h3 align="center">My name is Piotr and I'm passionate about cloud native technologies, containers, Kubernetes and multi-cloud.</h3>
 
 - 🔭 I’m currently working on [Docker Certified Associate Guide](https://github.com/Piotr1215/dca-prep-kit)
 
