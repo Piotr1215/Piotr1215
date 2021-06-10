@@ -31,4 +31,7 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=piotr1215&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=piotr1215&show_icons=true&theme=dark&locale=en" alt="piotr1215" />
+  <p align="right">
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Piotr1215)](https://git.io/streak-stats)
+  </p>    
 </p>
