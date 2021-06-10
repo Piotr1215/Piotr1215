@@ -32,6 +32,6 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=piotr1215&show_icons=true&theme=dark&locale=en" alt="piotr1215" />
   <p align="right">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Piotr1215)](https://git.io/streak-stats)
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
   </p>    
 </p>
