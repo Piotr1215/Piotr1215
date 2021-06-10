@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **piotrzan@gmail.com**
 
+<p align="right">![](https://komarev.com/ghpvc/?username=Piotr1215)</p>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to create Kubernetes home lab on an old laptop](https://itnext.io/how-to-create-kubernetes-home-lab-on-an-old-laptop-1de6cc12c13e?source=rss-3c5c31a7d1d7------2)
@@ -26,10 +28,10 @@
 <a href="https://www.katacoda.com/decoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/katacoda.svg" alt="piotrzan" height="30" width="40" /></a></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=piotr1215&show_icons=true&theme=dark&locale=en&layout=compact" alt="piotr1215" /></p>
-
-  <p align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=piotr1215&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</p>
-
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=piotr1215&show_icons=true&theme=dark&locale=en" alt="piotr1215" /></p>
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=piotr1215&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=piotr1215&show_icons=true&theme=dark&locale=en" alt="piotr1215" /></p>
    
-  ![](https://komarev.com/ghpvc/?username=Piotr1215)
+  
 
