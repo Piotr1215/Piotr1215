@@ -9,7 +9,11 @@
 
 - 📫 How to reach me **piotrzan@gmail.com**
 
-<p align="right">![](https://komarev.com/ghpvc/?username=Piotr1215)</p>
+<p align="right">
+  
+  ![](https://komarev.com/ghpvc/?username=Piotr1215)
+
+</p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
