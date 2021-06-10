@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **piotrzan@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=Piotr1215)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to create Kubernetes home lab on an old laptop](https://itnext.io/how-to-create-kubernetes-home-lab-on-an-old-laptop-1de6cc12c13e?source=rss-3c5c31a7d1d7------2)
@@ -32,3 +30,5 @@
 
 |[![trophy](https://github-profile-trophy.vercel.app/?username=piotr1215&theme=onedark&title=Stars,Followers,Commit,Repositories,Multilanguage&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) | <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=piotr1215&show_icons=true&theme=dark&locale=en&layout=compact" alt="piotr1215" /></p> |<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=piotr1215&show_icons=true&theme=dark&locale=en" alt="piotr1215" /></p> |
 |--- | --- | ---|
+
+![](https://komarev.com/ghpvc/?username=Piotr1215)
