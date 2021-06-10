@@ -25,8 +25,8 @@
 <a href="https://hub.docker.com/u/piotrzan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="piotrzan" height="30" width="40" /></a>
 <a href="https://www.katacoda.com/decoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/katacoda.svg" alt="piotrzan" height="30" width="40" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piotr1215&show_icons=true&theme=dark&locale=en&layout=compact" alt="piotr1215" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piotr1215&show_icons=true&theme=dark&locale=en&layout=compact" alt="piotr1215" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=piotr1215&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piotr1215&show_icons=true&theme=dark&locale=en" alt="piotr1215" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piotr1215&show_icons=true&theme=dark&locale=en" alt="piotr1215" /></p></p>
