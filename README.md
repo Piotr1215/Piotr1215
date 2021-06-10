@@ -34,7 +34,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=piotr1215&show_icons=true&theme=dark&locale=en&layout=compact" alt="piotr1215" /></p>
 <p align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=piotr1215&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=piotr1215&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
   
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=piotr1215&show_icons=true&theme=dark&locale=en" alt="piotr1215" /></p>
