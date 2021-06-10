@@ -15,7 +15,7 @@
 
 </p>
 
-### Blogs posts
+## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to create Kubernetes home lab on an old laptop](https://itnext.io/how-to-create-kubernetes-home-lab-on-an-old-laptop-1de6cc12c13e?source=rss-3c5c31a7d1d7------2)
 - [Advice to my junior developer self](https://faun.pub/advice-to-my-junior-developer-self-bd210a967d7e?source=rss-3c5c31a7d1d7------2)
@@ -30,6 +30,8 @@
 <a href="https://medium.com/@piotrzan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@piotrzan" height="30" width="40" /></a>
 <a href="https://hub.docker.com/u/piotrzan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="piotrzan" height="30" width="40" /></a>
 <a href="https://www.katacoda.com/decoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/katacoda.svg" alt="piotrzan" height="30" width="40" /></a></p>
+
+## Github Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=piotr1215&theme=onedark&title=Stars,Followers,Commit,Repositories,Multilanguage&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=piotr1215&show_icons=true&theme=dark&locale=en&layout=compact" alt="piotr1215" /></p>
