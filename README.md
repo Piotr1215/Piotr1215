@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, welcome to my github profile</h1>
+<h1 align="center">Hi 👋, welcome to my profile</h1>
 <h3 align="center">My name is Piotr and I'm passionate about cloud native technologies, containers, Kubernetes and multi-cloud.</h3>
 
 - 🔭 I’m currently working on [IT Certifications Guide](https://www.itcertificationsguide.com/#/)
