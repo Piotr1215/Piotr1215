@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Azure explained deep enough: Azure PaaS](https://piotrzan.medium.com/azure-explained-deep-enough-azure-paas-321a0f16bd57?source=rss-3c5c31a7d1d7------2)
+- [Azure explained deep enough: Azure PaaS](https://medium.com/codex/azure-explained-deep-enough-azure-paas-321a0f16bd57?source=rss-3c5c31a7d1d7------2)
 - [Azure explained deep enough: Containers](https://medium.com/codex/azure-explained-deep-enough-containers-a516af1caab1?source=rss-3c5c31a7d1d7------2)
 - [Tips & Tricks for CKA, CKAD and CKS exams](https://itnext.io/tips-tricks-for-cka-ckad-and-cks-exams-cc9dade1f76d?source=rss-3c5c31a7d1d7------2)
 - [Azure explained deep enough — learn and get certified](https://medium.com/codex/azure-explained-deep-enough-learn-and-get-certified-95c928b0e16c?source=rss-3c5c31a7d1d7------2)
