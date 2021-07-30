@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [5 must-have command line Kubernetes tools](https://itnext.io/5-must-have-command-line-kubernetes-tools-b90bdb843ce6?source=rss-3c5c31a7d1d7------2)
+- [5 must-have command line Kubernetes tools](https://medium.com/swlh/5-must-have-command-line-kubernetes-tools-b90bdb843ce6?source=rss-3c5c31a7d1d7------2)
 - [Azure explained deep enough: Azure DevOps](https://itnext.io/azure-explained-deep-enough-azure-devops-210629b5480e?source=rss-3c5c31a7d1d7------2)
 - [Azure explained deep enough: Azure PaaS](https://itnext.io/azure-explained-deep-enough-azure-paas-321a0f16bd57?source=rss-3c5c31a7d1d7------2)
 - [Azure explained deep enough: Containers](https://itnext.io/azure-explained-deep-enough-containers-a516af1caab1?source=rss-3c5c31a7d1d7------2)
