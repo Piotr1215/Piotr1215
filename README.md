@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [6 key areas to improve your DevOps performance](https://itnext.io/6-key-areas-to-improve-your-devops-performance-f4c4226feb25?source=rss-3c5c31a7d1d7------2)
+- [6 key areas to improve your DevOps performance](https://medium.com/swlh/6-key-areas-to-improve-your-devops-performance-f4c4226feb25?source=rss-3c5c31a7d1d7------2)
 - [Software development in containers — a cookbook](https://itnext.io/software-development-in-containers-a-cookbook-2ba14d07e535?source=rss-3c5c31a7d1d7------2)
 - [Managing command snippets is hard; but there is hope](https://itnext.io/managing-command-snippets-is-hard-but-there-is-hope-dc6f046759bc?source=rss-3c5c31a7d1d7------2)
 - [Best practices for developing on Kubernetes](https://itnext.io/best-practices-for-developing-on-kubernetes-8fbdbba12538?source=rss-3c5c31a7d1d7------2)
