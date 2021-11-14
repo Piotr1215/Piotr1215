@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Infrastructure as Code: the next big shift is here](https://medium.com/swlh/infrastructure-as-code-the-next-big-shift-is-here-9215f0bda7ce?source=rss-3c5c31a7d1d7------2)
+- [Infrastructure as Code: the next big shift is here](https://itnext.io/infrastructure-as-code-the-next-big-shift-is-here-9215f0bda7ce?source=rss-3c5c31a7d1d7------2)
 - [How to validate Kubernetes YAML files](https://itnext.io/how-to-validate-kubernetes-yaml-files-9a17b9a30f08?source=rss-3c5c31a7d1d7------2)
 - [How to create Kubernetes YAML files](https://itnext.io/how-to-create-kubernetes-yaml-files-abb8426eeb45?source=rss-3c5c31a7d1d7------2)
 - [6 key areas to improve your DevOps performance](https://medium.com/codex/6-key-areas-to-improve-your-devops-performance-f4c4226feb25?source=rss-3c5c31a7d1d7------2)
