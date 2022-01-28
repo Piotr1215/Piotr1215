@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to secure Kubernetes in-cluster communication](https://itnext.io/how-to-secure-kubernetes-in-cluster-communication-5a9927be415b?source=rss-3c5c31a7d1d7------2)
 - [How to tackle Kubernetes observability challenges with Pixie](https://itnext.io/how-to-tackle-kubernetes-observability-challenges-with-pixie-4c6414ca913?source=rss-3c5c31a7d1d7------2)
 - [Learning Guide: AWS Certified Solutions Architect Associate](https://itnext.io/learning-guide-aws-certified-solutions-architect-associate-ec95d1debba8?source=rss-3c5c31a7d1d7------2)
 - [Azure Container Apps: Review and Practical Examples](https://itnext.io/azure-container-apps-review-and-practical-examples-cd58757bac34?source=rss-3c5c31a7d1d7------2)
 - [How To Level Up Your Kubernetes Game](https://itnext.io/how-to-level-up-your-kubernetes-game-96f8f7ea50b9?source=rss-3c5c31a7d1d7------2)
-- [Infrastructure as Code: the next big shift is here](https://itnext.io/infrastructure-as-code-the-next-big-shift-is-here-9215f0bda7ce?source=rss-3c5c31a7d1d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Where to find me
