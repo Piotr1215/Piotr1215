@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://piotrzan.medium.com/](https://piotrzan.medium.com/)
 
-- 💬 Ask me about **Docker, Kubernetes, Azure, Microservices**
+- 💬 Ask me about **Docker, Kubernetes, Azure, GCP, AWS, [Crossplane](https://crossplane.io/), Microservices**
 
 - 📫 How to reach me **piotrzan@gmail.com**
 
