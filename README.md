@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I joined a tech startup in my mid-40s](https://medium.com/swlh/i-joined-a-tech-startup-in-my-mid-40s-9564e5c5e71?source=rss-3c5c31a7d1d7------2)
 - [Why do developers find Kubernetes so hard?](https://itnext.io/why-do-developers-find-kubernetes-hard-6532e8d6ce7f?source=rss-3c5c31a7d1d7------2)
 - [GitOpsify Cloud Infrastructure with Crossplane and Flux](https://itnext.io/gitopsify-cloud-infrastructure-with-crossplane-and-flux-d605d3043452?source=rss-3c5c31a7d1d7------2)
 - [Increase Kubernetes Network Security with Cilium](https://itnext.io/increase-kubernetes-network-security-with-cilium-ba6af15c8f5f?source=rss-3c5c31a7d1d7------2)
 - [Spice up your Infrastructure as Code with TACOS](https://itnext.io/spice-up-your-infrastructure-as-code-with-tacos-1a9c179e0783?source=rss-3c5c31a7d1d7------2)
-- [How to secure Kubernetes in-cluster communication](https://itnext.io/how-to-secure-kubernetes-in-cluster-communication-5a9927be415b?source=rss-3c5c31a7d1d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Where to find me
