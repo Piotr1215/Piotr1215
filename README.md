@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to automate repetitive tasks in Kubernetes with runbooks?](https://itnext.io/how-to-automate-repetitive-tasks-in-kubetneres-with-runbooks-8b039976f546?source=rss-3c5c31a7d1d7------2)
 - [Validate Crossplane Compositions with Datree](https://itnext.io/validate-crossplane-compositions-with-datree-f52061cdb1b7?source=rss-3c5c31a7d1d7------2)
 - [I joined a tech startup in my mid-40s](https://medium.com/swlh/i-joined-a-tech-startup-in-my-mid-40s-9564e5c5e71?source=rss-3c5c31a7d1d7------2)
 - [Why do developers find Kubernetes so hard?](https://itnext.io/why-do-developers-find-kubernetes-hard-6532e8d6ce7f?source=rss-3c5c31a7d1d7------2)
 - [GitOpsify Cloud Infrastructure with Crossplane and Flux](https://itnext.io/gitopsify-cloud-infrastructure-with-crossplane-and-flux-d605d3043452?source=rss-3c5c31a7d1d7------2)
-- [Increase Kubernetes Network Security with Cilium](https://itnext.io/increase-kubernetes-network-security-with-cilium-ba6af15c8f5f?source=rss-3c5c31a7d1d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Where to find me
