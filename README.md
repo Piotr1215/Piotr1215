@@ -21,11 +21,11 @@
 ### Where to find me
 
 <p align="left">
-<a href="https://twitter.com/piotr1215" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="piotr1215" height="30" width="40" /></a>
-<a href="https://fosstodon.org/@piotr1215" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="piotr1215" height="30" width="40" /></a>
-<a href="https://medium.com/@piotrzan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@piotrzan" height="30" width="40" /></a>
-<a href="https://hub.docker.com/u/piotrzan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="piotrzan" height="30" width="40" /></a>
-<a href="https://www.katacoda.com/decoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.7.0/icons/katacoda.svg" alt="piotrzan" height="30" width="40" /></a></p>
+<a href="https://twitter.com/piotr1215" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/twitter.svg" alt="piotr1215" height="30" width="40" /></a>
+<a href="https://fosstodon.org/@piotr1215" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/mastodon.svg" alt="piotr1215" height="30" width="40" /></a>
+<a href="https://medium.com/@piotrzan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/medium.svg" alt="@piotrzan" height="30" width="40" /></a>
+<a href="https://hub.docker.com/u/piotrzan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/docker.svg" alt="piotrzan" height="30" width="40" /></a>
+<a href="https://www.killercoda.com/decoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/katacoda.svg" alt="piotrzan" height="30" width="40" /></a></p>
 
 ### Github Stats
 
