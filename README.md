@@ -21,9 +21,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-<a href="https://fosstodon.org/@piotr1215" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/mastodon.svg" alt="piotr1215" height="30" width="40"/></a>
-<a href="https://medium.com/@piotrzan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/medium.svg" alt="@piotrzan" height="30" width="40"/></a>
-<a href="https://www.killercoda.com/decoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/katacoda.svg" alt="piotrzan" height="30" width="40"/></a>
+<a href="https://fosstodon.org/@piotr1215" target="blank"><img align="center" src="https://cdn.simpleicons.org/mastodon/transparent/blue" alt="piotr1215" height="30" width="40"/></a>
+<a href="https://medium.com/@piotrzan" target="blank"><img align="center" src="https://cdn.simpleicons.org/medium/transparent/blue" alt="@piotrzan" height="30" width="40"/></a>
+<a href="https://www.killercoda.com/decoder" target="blank"><img align="center" src="https://cdn.simpleicons.org/katacoda/transparent/blue" alt="piotrzan" height="30" width="40"/></a>
 </p>
 
 <p align="center">
