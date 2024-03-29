@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, welcome to my profile</h1>
 <h3 align="center">My name is Piotr, you can find me usually tweaking my novim config or playing around with Kubernetes and crossplane.</h3>
 
-- 🔭 I’m currently working on [IT Certifications Guide](https://www.itcertificationsguide.com/#/)
+- 🔭 My home page [Cloudrumble](https://www.cloudrumble.net)
 
 - 📝 I regularly write articles on [https://piotrzan.medium.com/](https://piotrzan.medium.com/)
 
