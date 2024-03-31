@@ -7,7 +7,7 @@
 
 - 🌱 Check out my interactive workshops on [Killercoda](https://www.killercoda.com/decoder)
 
-- 💬 Ask me about **Docker, Kubernetes, Azure, GCP, AWS, [Crossplane](https://crossplane.io/), Microservices**
+- 💬 Ask me about **Docker, Kubernetes, Azure, [Crossplane](https://crossplane.io/), Microservices, Neovim, Linux**
 
 - 📫 How to reach me **piotrzan@gmail.com**, **https://fosstodon.org/@piotr1215**
 
