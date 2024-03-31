@@ -14,12 +14,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Crossplane resources in Neovim](https://piotrzan.medium.com/crossplane-resources-in-neovim-4d47e50c531f?source=rss-3c5c31a7d1d7------2)
+- [Development with AI: the GAG Stack](https://itnext.io/development-with-ai-the-gag-stack-f96b3bb4b02b?source=rss-3c5c31a7d1d7------2)
+- [Reclaim Your Data Ownership: Leveraging Unix Philosophy for Modern Digital Workflows](https://itnext.io/reclaim-your-data-ownership-leveraging-unix-philosophy-for-modern-digital-workflows-25491f6da35d?source=rss-3c5c31a7d1d7------2)
 - [Linux Foundation Certified Cloud Technician &lpar;LFCT&rpar; exam study guide](https://itnext.io/linux-foundation-certified-cloud-technician-lfct-exam-study-guide-41506a8d3822?source=rss-3c5c31a7d1d7------2)
 - [Kubernetes in a box](https://itnext.io/kubernetes-in-a-box-7a146ba9f681?source=rss-3c5c31a7d1d7------2)
-- [How to automate repetitive tasks in Kubernetes with runbooks?](https://itnext.io/how-to-automate-repetitive-tasks-in-kubetneres-with-runbooks-8b039976f546?source=rss-3c5c31a7d1d7------2)
-- [Validate Crossplane Compositions with Datree](https://itnext.io/validate-crossplane-compositions-with-datree-f52061cdb1b7?source=rss-3c5c31a7d1d7------2)
-- [I joined a tech startup in my mid-40s](https://medium.com/swlh/i-joined-a-tech-startup-in-my-mid-40s-9564e5c5e71?source=rss-3c5c31a7d1d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
