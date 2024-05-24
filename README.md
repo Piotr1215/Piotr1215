@@ -14,11 +14,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with vCluster](https://medium.com/swlh/getting-started-with-vcluster-b0c25e0efdaf?source=rss-3c5c31a7d1d7------2)
 - [Build Your Own Kubernetes Co-Pilot](https://itnext.io/build-your-own-kubernetes-co-pilot-53e4d6af6a8f?source=rss-3c5c31a7d1d7------2)
 - [Crossplane resources in Neovim](https://piotrzan.medium.com/crossplane-resources-in-neovim-4d47e50c531f?source=rss-3c5c31a7d1d7------2)
 - [Development with AI: the GAG Stack](https://itnext.io/development-with-ai-the-gag-stack-f96b3bb4b02b?source=rss-3c5c31a7d1d7------2)
 - [Reclaim Your Data Ownership: Leveraging Unix Philosophy for Modern Digital Workflows](https://itnext.io/reclaim-your-data-ownership-leveraging-unix-philosophy-for-modern-digital-workflows-25491f6da35d?source=rss-3c5c31a7d1d7------2)
-- [Linux Foundation Certified Cloud Technician &lpar;LFCT&rpar; exam study guide](https://itnext.io/linux-foundation-certified-cloud-technician-lfct-exam-study-guide-41506a8d3822?source=rss-3c5c31a7d1d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
