@@ -14,11 +14,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Ace the Azure AI-102 Exam](https://itnext.io/ace-ai-102-exam-78dd79d7e0fa?source=rss-3c5c31a7d1d7------2)
 - [Getting Started with vCluster](https://itnext.io/getting-started-with-vcluster-b0c25e0efdaf?source=rss-3c5c31a7d1d7------2)
 - [Build Your Own Kubernetes Co-Pilot](https://itnext.io/build-your-own-kubernetes-co-pilot-53e4d6af6a8f?source=rss-3c5c31a7d1d7------2)
 - [Crossplane resources in Neovim](https://piotrzan.medium.com/crossplane-resources-in-neovim-4d47e50c531f?source=rss-3c5c31a7d1d7------2)
 - [Development with AI: the GAG Stack](https://itnext.io/development-with-ai-the-gag-stack-f96b3bb4b02b?source=rss-3c5c31a7d1d7------2)
-- [Reclaim Your Data Ownership: Leveraging Unix Philosophy for Modern Digital Workflows](https://itnext.io/reclaim-your-data-ownership-leveraging-unix-philosophy-for-modern-digital-workflows-25491f6da35d?source=rss-3c5c31a7d1d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
