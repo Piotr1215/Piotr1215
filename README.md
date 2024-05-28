@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, welcome to my profile</h1>
 <h3 align="center">My name is Piotr, you can find me usually tweaking my novim config or playing around with Kubernetes and crossplane.</h3>
 
-- 🔭 My home page [Cloudrumble](https://www.cloudrumble.net)
+- 🔭 Visit my home page [Cloudrumble](https://www.cloudrumble.net)
 
 - 📝 I regularly write articles on [https://piotrzan.medium.com/](https://piotrzan.medium.com/)
 
 - 🌱 Check out my interactive workshops on [Killercoda](https://www.killercoda.com/decoder)
 
-- 💬 Ask me about **Docker, Kubernetes, Azure, [Crossplane](https://crossplane.io/), Microservices, Neovim, Linux**
+- 💬 Ask me about **Docker, Kubernetes, Azure, Crossplane, Microservices, Neovim, Linux**
 
 - 📫 How to reach me **piotrzan@gmail.com**, **https://fosstodon.org/@piotr1215**
 
