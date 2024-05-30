@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://piotrzan.medium.com/](https://piotrzan.medium.com/)
 
-- 🌱 Check out my interactive workshops on [Killercoda](https://www.killercoda.com/decoder)
+- 🌱 Check out my interactive workshops on [Killercoda](https://killercoda.com/decoder)
 
 - 💬 Ask me about **Docker, Kubernetes, Azure, Crossplane, Microservices, Neovim, Linux**
 
