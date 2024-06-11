@@ -14,7 +14,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Cloud Native Platforms with Kubernetes](https://medium.com/swlh/how-to-build-cloud-native-platforms-with-kubernetes-1f0901a63a04?source=rss-3c5c31a7d1d7------2)
+- [How to Build Cloud Native Platforms with Kubernetes](https://itnext.io/how-to-build-cloud-native-platforms-with-kubernetes-1f0901a63a04?source=rss-3c5c31a7d1d7------2)
 - [Master Command Orchestration](https://itnext.io/master-command-orchestration-16f4a117ce05?source=rss-3c5c31a7d1d7------2)
 - [How to Simplify Kubernetes Deployments with Kluctl](https://itnext.io/how-to-simplify-kubernetes-deployments-with-kluctl-2c3f71d4b71a?source=rss-3c5c31a7d1d7------2)
 - [How to Ace the Azure AI-102 Exam](https://itnext.io/ace-ai-102-exam-78dd79d7e0fa?source=rss-3c5c31a7d1d7------2)
