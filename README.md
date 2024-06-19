@@ -14,11 +14,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Fast Feedback Loops Matter When Working with Kubernetes](https://itnext.io/why-fast-feedback-loops-matter-when-working-with-kubernetes-58b8d2cb8e8e?source=rss-3c5c31a7d1d7------2)
 - [Convert Medium Blogs to Markdown](https://itnext.io/convert-medium-blogs-to-markdown-3d8d1facac98?source=rss-3c5c31a7d1d7------2)
 - [Why is Building Pipelines Different from Software Development?](https://itnext.io/why-is-building-pipelines-different-from-software-development-13ebd479edc4?source=rss-3c5c31a7d1d7------2)
 - [How to Build Cloud Native Platforms with Kubernetes](https://itnext.io/how-to-build-cloud-native-platforms-with-kubernetes-1f0901a63a04?source=rss-3c5c31a7d1d7------2)
 - [Master Command Orchestration](https://itnext.io/master-command-orchestration-16f4a117ce05?source=rss-3c5c31a7d1d7------2)
-- [How to Simplify Kubernetes Deployments with Kluctl](https://itnext.io/how-to-simplify-kubernetes-deployments-with-kluctl-2c3f71d4b71a?source=rss-3c5c31a7d1d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
