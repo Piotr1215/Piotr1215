@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, welcome to my profile</h1>
-<h3 align="center">My name is Piotr, you can find me usually tweaking my novim config or playing around with Kubernetes and crossplane.</h3>
+<h1 align="center">👋, welcome to my profile</h1>
+<h3 align="center">My name is Piotr, you can find me usually tweaking my novim
+config or playing around with Kubernetes and cloud-native tools.</h3>
 
 - 🔭 Visit my home page [Cloudrumble](https://www.cloudrumble.net)
 
 - 📝 I regularly write articles on [https://piotrzan.medium.com/](https://piotrzan.medium.com/)
 
 - 🌱 Check out my interactive workshops on [Killercoda](https://killercoda.com/decoder)
+  
+- 🎥 Subscribe to my YouTube Channel [Cloud-Native Corner](https://www.youtube.com/channel/UCkWVN7H3JqGtJ5Pv5bvCrAw)
 
 - 💬 Ask me about **Docker, Kubernetes, Azure, Crossplane, Microservices, Neovim, Linux**
 
