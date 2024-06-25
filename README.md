@@ -17,7 +17,7 @@ config or playing around with Kubernetes and cloud-native tools.</h3>
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Must-Have Command Line AI Tools](https://piotrzan.medium.com/5-must-have-command-line-ai-tools-839b0cf95c97?source=rss-3c5c31a7d1d7------2)
+- [5 Must-Have Command Line AI Tools](https://faun.pub/5-must-have-command-line-ai-tools-839b0cf95c97?source=rss-3c5c31a7d1d7------2)
 - [Why Fast Feedback Loops Matter When Working with Kubernetes](https://itnext.io/why-fast-feedback-loops-matter-when-working-with-kubernetes-58b8d2cb8e8e?source=rss-3c5c31a7d1d7------2)
 - [Convert Medium Blogs to Markdown](https://itnext.io/convert-medium-blogs-to-markdown-3d8d1facac98?source=rss-3c5c31a7d1d7------2)
 - [Why is Building Pipelines Different from Software Development?](https://itnext.io/why-is-building-pipelines-different-from-software-development-13ebd479edc4?source=rss-3c5c31a7d1d7------2)
