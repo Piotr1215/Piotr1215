@@ -17,11 +17,11 @@ config or playing around with Kubernetes and cloud-native tools.</h3>
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Typing Simulation in Neovim with typeit.nvim](https://piotrzan.medium.com/typing-simulation-in-neovim-with-typeit-nvim-dcd56a616082?source=rss-3c5c31a7d1d7------2)
 - [From Silos to Synergy: Cloud Infrastructure Management in the Age of Platform Teams](https://itnext.io/from-silos-to-synergy-cloud-infrastructure-management-in-the-age-of-platform-teams-0087187c288f?source=rss-3c5c31a7d1d7------2)
 - [5 Must-Have Command Line AI Tools](https://medium.com/codex/5-must-have-command-line-ai-tools-839b0cf95c97?source=rss-3c5c31a7d1d7------2)
 - [Why Fast Feedback Loops Matter When Working with Kubernetes](https://itnext.io/why-fast-feedback-loops-matter-when-working-with-kubernetes-58b8d2cb8e8e?source=rss-3c5c31a7d1d7------2)
 - [Convert Medium Blogs to Markdown](https://itnext.io/convert-medium-blogs-to-markdown-3d8d1facac98?source=rss-3c5c31a7d1d7------2)
-- [Why is Building Pipelines Different from Software Development?](https://itnext.io/why-is-building-pipelines-different-from-software-development-13ebd479edc4?source=rss-3c5c31a7d1d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
