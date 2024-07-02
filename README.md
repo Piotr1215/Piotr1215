@@ -17,7 +17,7 @@ config or playing around with Kubernetes and cloud-native tools.</h3>
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Essential Kubernetes Tools You Didn’t Know You Needed](https://piotrzan.medium.com/10-essential-kubernetes-tools-you-didnt-know-you-needed-06954251d845?source=rss-3c5c31a7d1d7------2)
+- [10 Essential Kubernetes Tools You Didn’t Know You Needed](https://medium.com/swlh/10-essential-kubernetes-tools-you-didnt-know-you-needed-06954251d845?source=rss-3c5c31a7d1d7------2)
 - [Automate, Customize, Solve: An Introduction to Bash Scripting](https://faun.pub/automate-customize-solve-an-introduction-to-bash-scripting-f5a9ae8e41cf?source=rss-3c5c31a7d1d7------2)
 - [6 Essential Linux Command Line Tools for DevOps Engineers](https://itnext.io/6-essential-linux-command-line-tools-for-devops-engineers-5cd23b578c50?source=rss-3c5c31a7d1d7------2)
 - [Typing Simulation in Neovim with typeit.nvim](https://piotrzan.medium.com/typing-simulation-in-neovim-with-typeit-nvim-dcd56a616082?source=rss-3c5c31a7d1d7------2)
