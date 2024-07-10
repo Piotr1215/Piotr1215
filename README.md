@@ -17,11 +17,11 @@ config or playing around with Kubernetes and cloud-native tools.</h3>
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Practical External Command Tricks: Level Up Your Neo&lpar;vim&rpar; Skills](https://itnext.io/6-practical-external-command-tricks-level-up-your-neo-vim-skills-ed656abf38b1?source=rss-3c5c31a7d1d7------2)
 - [Direnv: Flexible Environment Management](https://itnext.io/direnv-flexible-environment-management-4a9703c46645?source=rss-3c5c31a7d1d7------2)
 - [Automate Kubernetes with Shell-Operator](https://itnext.io/automate-kubernetes-with-shell-operator-1ae5b50408ae?source=rss-3c5c31a7d1d7------2)
 - [10 Essential Kubernetes Tools You Didn’t Know You Needed](https://itnext.io/10-essential-kubernetes-tools-you-didnt-know-you-needed-06954251d845?source=rss-3c5c31a7d1d7------2)
 - [Automate, Customize, Solve: An Introduction to Bash Scripting](https://faun.pub/automate-customize-solve-an-introduction-to-bash-scripting-f5a9ae8e41cf?source=rss-3c5c31a7d1d7------2)
-- [6 Essential Linux Command Line Tools for DevOps Engineers](https://itnext.io/6-essential-linux-command-line-tools-for-devops-engineers-5cd23b578c50?source=rss-3c5c31a7d1d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
