@@ -17,11 +17,11 @@ config or playing around with Kubernetes and cloud-native tools.</h3>
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Advanced Kubernetes Operators Every DevOps Engineer Should Know About](https://piotrzan.medium.com/5-advanced-kubernetes-operators-every-devops-engineer-should-know-about-ab46bdc1c7d5?source=rss-3c5c31a7d1d7------2)
 - [The Zsh Shell Tricks I Wish I’d Known Earlier](https://itnext.io/the-zsh-shell-tricks-i-wish-id-known-earlier-ae99e91c53c2?source=rss-3c5c31a7d1d7------2)
 - [Deploy Your First WebAssembly App on Kubernetes in 10 Minutes](https://itnext.io/deploy-your-first-webassembly-app-on-kubernetes-in-10-minutes-ad61b668501c?source=rss-3c5c31a7d1d7------2)
 - [6 Practical External Command Tricks: Level Up Your Neo&lpar;vim&rpar; Skills](https://itnext.io/6-practical-external-command-tricks-level-up-your-neo-vim-skills-ed656abf38b1?source=rss-3c5c31a7d1d7------2)
 - [Direnv: Flexible Environment Management](https://itnext.io/direnv-flexible-environment-management-4a9703c46645?source=rss-3c5c31a7d1d7------2)
-- [Automate Kubernetes with Shell-Operator](https://itnext.io/automate-kubernetes-with-shell-operator-1ae5b50408ae?source=rss-3c5c31a7d1d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
