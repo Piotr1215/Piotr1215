@@ -17,7 +17,7 @@ config or playing around with Kubernetes and cloud-native tools.</h3>
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Better Kubernetes YAML Editing with Neo&lpar;vim&rpar;](https://itnext.io/better-kubernetes-yaml-editing-with-neo-vim-af7da9a1b150?source=rss-3c5c31a7d1d7------2)
+- [Better Kubernetes YAML Editing with &lpar;Neo&rpar;vim](https://itnext.io/better-kubernetes-yaml-editing-with-neo-vim-af7da9a1b150?source=rss-3c5c31a7d1d7------2)
 - [The Kubernetes Troubleshooting Handbook](https://itnext.io/the-kubernetes-troubleshooting-handbook-7596a1fdf2ff?source=rss-3c5c31a7d1d7------2)
 - [5 Advanced Kubernetes Operators Every DevOps Engineer Should Know About](https://itnext.io/5-advanced-kubernetes-operators-every-devops-engineer-should-know-about-ab46bdc1c7d5?source=rss-3c5c31a7d1d7------2)
 - [The Zsh Shell Tricks I Wish I’d Known Earlier](https://itnext.io/the-zsh-shell-tricks-i-wish-id-known-earlier-ae99e91c53c2?source=rss-3c5c31a7d1d7------2)
