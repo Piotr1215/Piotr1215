@@ -17,7 +17,7 @@ config or playing around with Kubernetes and cloud-native tools.</h3>
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 &lpar;Neo&rpar;vim Search and Replace Tips](https://piotrzan.medium.com/10-neo-vim-search-and-replace-tips-2ec09c442e60?source=rss-3c5c31a7d1d7------2)
+- [10 &lpar;Neo&rpar;vim Search and Replace Tips](https://itnext.io/10-neo-vim-search-and-replace-tips-2ec09c442e60?source=rss-3c5c31a7d1d7------2)
 - [Finally, a viable Helm Replacement](https://itnext.io/finally-a-viable-helm-replacement-388d538f9e1f?source=rss-3c5c31a7d1d7------2)
 - [Better Kubernetes YAML Editing with &lpar;Neo&rpar;vim](https://itnext.io/better-kubernetes-yaml-editing-with-neo-vim-af7da9a1b150?source=rss-3c5c31a7d1d7------2)
 - [The Kubernetes Troubleshooting Handbook](https://itnext.io/the-kubernetes-troubleshooting-handbook-7596a1fdf2ff?source=rss-3c5c31a7d1d7------2)
