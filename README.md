@@ -17,11 +17,11 @@ config or playing around with Kubernetes and cloud-native tools.</h3>
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From YAML Chaos to Kubernetes Zen](https://itnext.io/from-yaml-chaos-to-kubernetes-zen-5b9e8242a5cb?source=rss-3c5c31a7d1d7------2)
 - [The Power of &lpar;Neo&rpar;vim AutoCommands](https://itnext.io/the-power-of-neo-vim-autocommands-5d47c2186667?source=rss-3c5c31a7d1d7------2)
 - [10 &lpar;Neo&rpar;vim Search and Replace Tips](https://itnext.io/10-neo-vim-search-and-replace-tips-2ec09c442e60?source=rss-3c5c31a7d1d7------2)
 - [Finally, a viable Helm Replacement](https://itnext.io/finally-a-viable-helm-replacement-388d538f9e1f?source=rss-3c5c31a7d1d7------2)
 - [Better Kubernetes YAML Editing with &lpar;Neo&rpar;vim](https://itnext.io/better-kubernetes-yaml-editing-with-neo-vim-af7da9a1b150?source=rss-3c5c31a7d1d7------2)
-- [The Kubernetes Troubleshooting Handbook](https://itnext.io/the-kubernetes-troubleshooting-handbook-7596a1fdf2ff?source=rss-3c5c31a7d1d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
