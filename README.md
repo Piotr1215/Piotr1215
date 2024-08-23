@@ -17,11 +17,11 @@ config or playing around with Kubernetes and cloud-native tools.</h3>
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Multi-Container Development Environments](https://itnext.io/multi-container-development-environments-fc11f4a1c9d5?source=rss-3c5c31a7d1d7------2)
 - [8 Advanced Linux Command Line Tools](https://itnext.io/8-advanced-linux-command-line-tools-9d81258c3165?source=rss-3c5c31a7d1d7------2)
 - [After 5 Years of Using tmux, Here are the Features I Can’t Live Without](https://itnext.io/after-5-years-of-using-tmux-here-are-the-features-i-cant-live-without-04b27dba9b27?source=rss-3c5c31a7d1d7------2)
 - [10 CLI Tools That Made the Biggest Impact](https://itnext.io/10-cli-tools-that-made-the-biggest-impact-f8a2f4168434?source=rss-3c5c31a7d1d7------2)
 - [From YAML Chaos to Kubernetes Zen](https://itnext.io/from-yaml-chaos-to-kubernetes-zen-5b9e8242a5cb?source=rss-3c5c31a7d1d7------2)
-- [The Power of &lpar;Neo&rpar;vim AutoCommands](https://itnext.io/the-power-of-neo-vim-autocommands-5d47c2186667?source=rss-3c5c31a7d1d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
