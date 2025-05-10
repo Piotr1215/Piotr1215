@@ -17,11 +17,11 @@ config or playing around with Kubernetes and cloud-native tools.</h3>
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Multi-tenancy: Are You Doing It the Hard Way?](https://itnext.io/kubernetes-multi-tenancy-are-you-doing-it-the-hard-way-2619357a7c58?source=rss-3c5c31a7d1d7------2)
 - [Deploy Virtual Kubernetes Clusters on EKS, AKS, and GKE](https://itnext.io/deploy-virtual-kubernetes-clusters-on-eks-aks-and-gke-215bc7a07f56?source=rss-3c5c31a7d1d7------2)
 - [Terminal-Based Presentations](https://itnext.io/terminal-based-presentations-66c9f0c9b4a3?source=rss-3c5c31a7d1d7------2)
 - [I Transitioned to Containerized Development Environments](https://itnext.io/i-transitioned-to-containerized-development-environments-75f2ecbc37c5?source=rss-3c5c31a7d1d7------2)
 - [Top 5 Kubernetes Challenges for Platform Teams](https://itnext.io/top-5-kubernetes-challenges-for-platform-teams-87aa2f59e904?source=rss-3c5c31a7d1d7------2)
-- [Multi-Container Development Environments](https://itnext.io/multi-container-development-environments-fc11f4a1c9d5?source=rss-3c5c31a7d1d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
