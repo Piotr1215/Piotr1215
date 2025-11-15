@@ -16,28 +16,18 @@ config or playing around with Kubernetes and cloud-native tools.</h3>
 
 ## 🛠️ Technology Stack
 
-### Cloud & Container Orchestration
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Crossplane-ffcd02?style=for-the-badge&logo=crossplane&logoColor=black" alt="Crossplane"/>
+  <img src="https://img.shields.io/badge/vCluster-12B5E5?style=for-the-badge&logoColor=white" alt="vCluster"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Crossplane-ffcd02?style=for-the-badge&logo=crossplane&logoColor=black" alt="Crossplane"/>
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689" alt="Helm"/>
   <img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044" alt="ArgoCD"/>
-</p>
-
-### Cloud Platforms
-<p>
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-</p>
-
-### Infrastructure & Tools
-<p>
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 ### Blogs posts
@@ -51,6 +41,6 @@ config or playing around with Kubernetes and cloud-native tools.</h3>
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-  <img
-  src="https://github-readme-stats.vercel.app/api?username=piotr1215&count_private=true" alt="Piotr's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=piotr1215&show_icons=true&theme=transparent&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=piotr1215&theme=transparent&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
