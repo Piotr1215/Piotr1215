@@ -19,7 +19,7 @@ jobs:
           persist-credentials: true
           fetch-depth: 1
       - name: Update README with latest blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1.9.3
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@piotrzan"
 
