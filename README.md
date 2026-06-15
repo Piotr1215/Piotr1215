@@ -33,11 +33,11 @@ config or playing around with Kubernetes and cloud-native tools.</h3>
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Platform Engineering for AI Agents](https://itnext.io/platform-engineering-for-ai-agents-578380c2de47?source=rss-3c5c31a7d1d7------2)
-- [90ms to Total Recall](https://itnext.io/90ms-to-total-recall-a37741c4842b?source=rss-3c5c31a7d1d7------2)
-- [My day to day tasks revolve one way or another around Kubernetes — I give talks about it, maintain…](https://itnext.io/my-day-to-day-tasks-revolve-one-way-or-another-around-kubernetes-i-give-talks-about-it-maintain-c384229a0000?source=rss-3c5c31a7d1d7------2)
-- [Why GPU Infrastructure Is Foundational to an Enterprise AI Strategy](https://itnext.io/why-gpu-infrastructure-is-foundational-to-an-enterprise-ai-strategy-5b574ef1eebc?source=rss-3c5c31a7d1d7------2)
-- [From Physical Servers to Virtual Kubernetes Clusters](https://itnext.io/from-physical-servers-to-virtual-kubernetes-clusters-85f931d4cdff?source=rss-3c5c31a7d1d7------2)
+- [Platform Engineering for AI Agents](https://medium.com/itnext/platform-engineering-for-ai-agents-578380c2de47?source=rss-3c5c31a7d1d7------2)
+- [90ms to Total Recall](https://medium.com/itnext/90ms-to-total-recall-a37741c4842b?source=rss-3c5c31a7d1d7------2)
+- [My day to day tasks revolve one way or another around Kubernetes — I give talks about it, maintain…](https://medium.com/itnext/my-day-to-day-tasks-revolve-one-way-or-another-around-kubernetes-i-give-talks-about-it-maintain-c384229a0000?source=rss-3c5c31a7d1d7------2)
+- [Why GPU Infrastructure Is Foundational to an Enterprise AI Strategy](https://medium.com/itnext/why-gpu-infrastructure-is-foundational-to-an-enterprise-ai-strategy-5b574ef1eebc?source=rss-3c5c31a7d1d7------2)
+- [From Physical Servers to Virtual Kubernetes Clusters](https://medium.com/itnext/from-physical-servers-to-virtual-kubernetes-clusters-85f931d4cdff?source=rss-3c5c31a7d1d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
