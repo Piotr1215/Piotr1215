@@ -33,11 +33,11 @@ config or playing around with Kubernetes and cloud-native tools.</h3>
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Text, Structure, Meaning: from grep to local LLM classifier](https://itnext.io/text-structure-meaning-from-grep-to-local-llm-classifier-7a37bd790e36?source=rss-3c5c31a7d1d7------2)
 - [A Bridge Between Code and Semantic Reasoning](https://itnext.io/a-bridge-between-code-and-semantic-reasoning-57fc3fc9d32c?source=rss-3c5c31a7d1d7------2)
 - [Seven Ways to Multi Line Editing in Neovim](https://piotrzan.medium.com/seven-ways-to-multi-line-editing-in-neovim-55d903120e2a?source=rss-3c5c31a7d1d7------2)
 - [No Mouse: Tmux and Regex for instant copy/paste](https://piotrzan.medium.com/no-mouse-tmux-and-regex-for-instant-copy-paste-707a0768d6c9?source=rss-3c5c31a7d1d7------2)
 - [Platform Engineering for AI Agents](https://itnext.io/platform-engineering-for-ai-agents-578380c2de47?source=rss-3c5c31a7d1d7------2)
-- [90ms to Total Recall](https://itnext.io/90ms-to-total-recall-a37741c4842b?source=rss-3c5c31a7d1d7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
